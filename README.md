@@ -1,8 +1,9 @@
 # Introduction
 
-NLIP is a specification for a universal application level protocol which can enable communication among two agents. 
-The protocol is being standardized by Ecma. 
-This is the repository to solicit feedback on the First Draft of proposed standard of NLIP
+The Natural Language Interaction Protocol (NLIP) is a specification for a universal application level protocol which can enable communication among two agents. 
+The protocol is being standardized by ECMA International. 
+
+This is the repository to solicit feedback on the First Draft of proposed standard of NLIP.
 
 # Directions
 
@@ -14,7 +15,7 @@ There are three documents in this repository
 To provide feedback please open the error, enhancement or general comment issue in this repository.
 
 We are soliciting community feedback on these specifications. 
-If your employer is a member of Ecma, you can also choose to report the comment on Ecma members site. 
-If your employer is not a member of Ecma, you can comment on the specifications here. 
+If your employer is a member of ECMA, you can also choose to report the comment on ECMA members site. 
+If your employer is not a member of ECMA, you can comment on the specifications here. 
 
 
